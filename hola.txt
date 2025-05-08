@@ -1,0 +1,7 @@
+Un solo bucle sobre n → O(n)
+
+Dos bucles anidados sobre n → O(n²)
+
+Divide y conquista (como MergeSort) → O(n log n)
+
+Recursividad como Fibonacci naive → O(2ⁿ)   
